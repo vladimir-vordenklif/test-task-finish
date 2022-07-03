@@ -21,9 +21,6 @@ li {
     font-family: 'SF UI Display';
     src: url(font/SFUIDisplay-Medium.otf);
 }
-
-/* banner */
-
 .banner {
     width: 100%;
     max-width: 1900px;
@@ -173,9 +170,6 @@ video {
     height: 600px;
     object-fit: cover;
 }
-
-/* services */
-
 .services {
     width: 100%;
 }
@@ -355,6 +349,9 @@ h3 {
     .banner .arrow-left {
         left: 10px;
         bottom: 10px;
+    }
+    h2 {
+        margin-top: 100px;
     }
 }
 @media (max-width: 420px) {
