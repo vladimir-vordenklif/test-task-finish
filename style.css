@@ -213,7 +213,7 @@ h3 {
     font-size: 15px;
     margin-top: 20px;
     text-transform: uppercase;
-    background: url(..//img/icon/arrow.svg) no-repeat right;
+    background: url(img/icon/arrow.svg) no-repeat right;
 }
 .nav__mob span {
     width: 30px;
